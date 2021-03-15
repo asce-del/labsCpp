@@ -1,0 +1,4 @@
+/home/vladyslav/algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vladyslav/algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vladyslav/algorithms/cmake-build-debug/CMakeFiles/ta.dir
+/home/vladyslav/algorithms/cmake-build-debug/CMakeFiles/algorithms.dir
